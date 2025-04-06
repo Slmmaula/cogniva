@@ -516,7 +516,7 @@ export default function Home() {
               </div>
               <p className="text-gray-400 mb-4">Creating exceptional digital experiences that drive business growth.</p>
               <div className="flex gap-4">
-                <a href="/" className="text-gray-400 hover:text-white transition-colors">
+                <a href="#" className="text-gray-400 hover:text-white transition-colors">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="20"
@@ -531,7 +531,7 @@ export default function Home() {
                     <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z" />
                   </svg>
                 </a>
-                <a href="/" className="text-gray-400 hover:text-white transition-colors">
+                <a href="#" className="text-gray-400 hover:text-white transition-colors">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="20"
@@ -546,7 +546,7 @@ export default function Home() {
                     <path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z" />
                   </svg>
                 </a>
-                <a href="/" className="text-gray-400 hover:text-white transition-colors">
+                <a href="#" className="text-gray-400 hover:text-white transition-colors">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="20"
@@ -563,7 +563,7 @@ export default function Home() {
                     <line x1="17.5" x2="17.51" y1="6.5" y2="6.5" />
                   </svg>
                 </a>
-                <a href="/" className="text-gray-400 hover:text-white transition-colors">
+                <a href="#" className="text-gray-400 hover:text-white transition-colors">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="20"
@@ -587,27 +587,27 @@ export default function Home() {
               <h3 className="text-lg font-bold text-white mb-4">Services</h3>
               <ul className="space-y-2">
                 <li>
-                  <a href="/" className="text-gray-400 hover:text-white transition-colors">
+                  <a href="#" className="text-gray-400 hover:text-white transition-colors">
                     Web Development
                   </a>
                 </li>
                 <li>
-                  <a href="/" className="text-gray-400 hover:text-white transition-colors">
+                  <a href="#" className="text-gray-400 hover:text-white transition-colors">
                     Mobile App Development
                   </a>
                 </li>
                 <li>
-                  <a href="/" className="text-gray-400 hover:text-white transition-colors">
+                  <a href="#" className="text-gray-400 hover:text-white transition-colors">
                     UI/UX Design
                   </a>
                 </li>
                 <li>
-                  <a href="/" className="text-gray-400 hover:text-white transition-colors">
+                  <a href="#" className="text-gray-400 hover:text-white transition-colors">
                     Digital Marketing
                   </a>
                 </li>
                 <li>
-                  <a href="/" className="text-gray-400 hover:text-white transition-colors">
+                  <a href="#" className="text-gray-400 hover:text-white transition-colors">
                     E-commerce Solutions
                   </a>
                 </li>
@@ -618,27 +618,27 @@ export default function Home() {
               <h3 className="text-lg font-bold text-white mb-4">Company</h3>
               <ul className="space-y-2">
                 <li>
-                  <a href="/" className="text-gray-400 hover:text-white transition-colors">
+                  <a href="#" className="text-gray-400 hover:text-white transition-colors">
                     About Us
                   </a>
                 </li>
                 <li>
-                  <a href="/" className="text-gray-400 hover:text-white transition-colors">
+                  <a href="#" className="text-gray-400 hover:text-white transition-colors">
                     Our Work
                   </a>
                 </li>
                 <li>
-                  <a href="/" className="text-gray-400 hover:text-white transition-colors">
+                  <a href="#" className="text-gray-400 hover:text-white transition-colors">
                     Careers
                   </a>
                 </li>
                 <li>
-                  <a href="/" className="text-gray-400 hover:text-white transition-colors">
+                  <a href="#" className="text-gray-400 hover:text-white transition-colors">
                     Blog
                   </a>
                 </li>
                 <li>
-                  <a href="/" className="text-gray-400 hover:text-white transition-colors">
+                  <a href="#" className="text-gray-400 hover:text-white transition-colors">
                     Contact Us
                   </a>
                 </li>
