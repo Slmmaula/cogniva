@@ -2,7 +2,6 @@
 
 import { useCallback, useEffect, useState } from "react"
 import { MobileNav } from "./mobile-nav"
-import { useRouter } from "next/navigation"
 
 export function Navbar() {
   const [activeSection, setActiveSection] = useState<string>("home")
