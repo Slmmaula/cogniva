@@ -44,7 +44,7 @@ export function ContactForm() {
           </svg>
         </div>
         <h3 className="text-xl font-bold mb-2">Thank You!</h3>
-        <p className="text-muted-foreground mb-4">Your message has been received. We'll get back to you shortly.</p>
+        <p className="text-muted-foreground mb-4">Your message has been received. We&apos;ll get back to you shortly.</p>
         <Button variant="outline" onClick={() => setIsSubmitted(false)}>
           Send Another Message
         </Button>
