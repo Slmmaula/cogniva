@@ -1,7 +1,6 @@
 "use client"
 
 import { useCallback, useEffect, useState } from "react"
-import { Zap } from "lucide-react"
 import { MobileNav } from "./mobile-nav"
 import { useRouter } from "next/navigation"
 import Image from "next/image"
