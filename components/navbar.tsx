@@ -3,11 +3,9 @@
 import { useCallback, useEffect, useState } from "react"
 import { MobileNav } from "./mobile-nav"
 import { useRouter } from "next/navigation"
-import Image from "next/image"
 
 export function Navbar() {
   const [activeSection, setActiveSection] = useState<string>("home")
-  const router = useRouter()
 
   // function to handle scrolling to sections
   const scrollToSection = useCallback((sectionId: string) => {
