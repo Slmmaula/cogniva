@@ -273,7 +273,7 @@ export default function Home() {
                   <h3 className="text-2xl font-bold">Expert Team</h3>
                   <p className="text-muted-foreground">
                     Our team consists of industry veterans with specialized expertise across all digital disciplines.
-                    We're passionate about staying at the forefront of technology and design trends.
+                    We&apos;re passionate about staying at the forefront of technology and design trends.
                   </p>
                 </div>
                 <div className="space-y-4">
@@ -469,7 +469,7 @@ export default function Home() {
                   Ready to transform your digital presence?
                 </h2>
                 <p className="text-lg text-purple-100">
-                  Let's discuss how we can help you achieve your business goals with our expert digital solutions.
+                  Let&apos;s discuss how we can help you achieve your business goals with our expert digital solutions.
                 </p>
                 <div className="space-y-4">
                   <div className="flex items-start gap-3">
@@ -490,7 +490,7 @@ export default function Home() {
                     <CheckCircle className="h-6 w-6 text-purple-200 mt-0.5 shrink-0" />
                     <div>
                       <h4 className="font-medium">Ongoing Support</h4>
-                      <p className="text-purple-200">We're with you every step of the way</p>
+                      <p className="text-purple-200">We&apos;re with you every step of the way</p>
                     </div>
                   </div>
                 </div>
